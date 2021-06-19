@@ -1,0 +1,2 @@
+rootProject.name = "My_MediaCodec_player"
+include ':app'
